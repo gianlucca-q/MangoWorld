@@ -200,11 +200,11 @@ section
 }
 .text
 {
-    position: middle;
-    text-align: middle;
+    position: center;
+    text-align: center;
     font-family: "Futura", "Futura";
     font-weight: italic;
     color: black;
-    font-size: 24px;
+    font-size: 20px;
     bottom: 0%;
 }
