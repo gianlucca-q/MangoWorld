@@ -200,11 +200,11 @@ section
 }
 .text
 {
-    position: center;
+    position: left;
     text-align: center;
     font-family: "Helvetica", "Helvetica";
     font-weight: ;
     color: black;
-    font-size: 24px;
+    font-size: 20px;
     bottom: 0%;
 }
