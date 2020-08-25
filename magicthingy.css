@@ -201,9 +201,9 @@ section
 .text
 {
     position: center;
-    text-align: left;
+    text-align: center;
     font-family: "Helvetica", "Helvetica";
-    font-weight: bold;
+    font-weight: ;
     color: black;
     font-size: 24px;
     bottom: 0%;
