@@ -200,8 +200,8 @@ section
 }
 .text
 {
-    position: absolute;
-    text-align: right;
+    position: center;
+    text-align: left;
     font-family: "Helvetica", "Helvetica";
     font-weight: bold;
     color: white;
