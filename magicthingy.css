@@ -201,10 +201,10 @@ section
 .text
 {
     position: absolute;
-    text-align: left;
-    font-family: "Times New Roman", "Times New Roman";
+    text-align: middle;
+    font-family: "Helvetica", "Helvetica";
     font-weight: bold;
-    color: blue;
+    color: white;
     font-size: 24px;
     bottom: 0%;
 }
