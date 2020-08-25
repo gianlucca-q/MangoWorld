@@ -201,10 +201,10 @@ section
 .text
 {
     position: center;
-    text-align: center;
-    font-family: "Helvetica", "Helvetica";
-    font-weight: italic, bold;
-    color: white;
+    text-align: bottom;
+    font-family: "Futura", "Futura";
+    font-weight: bold;
+    color: black;
     font-size: 24px;
     bottom: 0%;
 }
