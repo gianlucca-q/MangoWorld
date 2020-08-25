@@ -201,7 +201,7 @@ section
 .text
 {
     position: center;
-    text-align: left;
+    text-align: center;
     font-family: "Helvetica", "Helvetica";
     font-weight: bold;
     color: white;
