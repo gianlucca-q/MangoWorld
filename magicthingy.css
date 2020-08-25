@@ -200,8 +200,8 @@ section
 }
 .text
 {
-    position: center;
-    text-align: bottom;
+    position: middle;
+    text-align: middle;
     font-family: "Futura", "Futura";
     font-weight: bold;
     color: black;
