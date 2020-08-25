@@ -200,7 +200,7 @@ section
 }
 .text
 {
-    position: relative;
+    position: absolute;
     text-align: right;
     font-family: "Helvetica", "Helvetica";
     font-weight: bold;
