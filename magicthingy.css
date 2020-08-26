@@ -200,7 +200,7 @@ section
 }
 .text
 {
-    position: left;
+    position: absolute;
     text-align: center;
     font-family: "Helvetica", "Helvetica";
     font-weight: ;
@@ -210,7 +210,7 @@ section
 }
 .simp
 {
-    position: align-center;
+    position: absolute;
     text-align: center;
     font-family: "Times", "Times";
     font-weight: bold;
