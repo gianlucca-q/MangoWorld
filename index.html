@@ -52,7 +52,6 @@
             <p> SIMP </p>
     </div>
 <div class="mark">
-    <div><img src="watermark.jpg"></div>
 <script>
 function ilumina (obj) {
   obj.style.filter='alpha(opacity=100)';
@@ -62,7 +61,11 @@ function apaga (obj) {
   obj.style.filter='alpha(opacity=50)';
   obj.style.opacity=.5;
 }
-    </div>
+</script>
+</head>
+<body>
+<img src="watermark.jpg" style="filter:alpha(opacity=50); opacity:.5" 
+onmouseover="ilumina(this)" onmouseout="apaga(this)" />
 </section>
 </body>
 </html>
