@@ -210,7 +210,7 @@ section
 }
 .simp
 {
-    position: absolute;
+    position: center;
     text-align: center;
     font-family: "Times", "Times";
     font-weight: bold;
