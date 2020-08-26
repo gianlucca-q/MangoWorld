@@ -221,7 +221,7 @@ section
 .mark
 {
 position: absolute;
-width: 1%;
+width: 10px;
 opacity: 70%;
-right: 90%
+right: 10%;
 }
