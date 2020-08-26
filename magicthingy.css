@@ -218,7 +218,8 @@ section
     font-size: 150px;
     bottom: 100%;
 }
-.watermark
+.mark
 {
-    position: left;
+position: absolute;
+width: 100px
 }
