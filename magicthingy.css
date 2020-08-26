@@ -214,7 +214,7 @@ section
     text-align: center;
     font-family: "Times", "Times";
     font-weight: bold;
-    color: black;
+    color: white;
     font-size: 150px;
     bottom: 100%;
 }
@@ -223,5 +223,5 @@ section
 position: absolute;
 width: 10px;
 opacity: 70%;
-right: 10%;
+right: 20%;
 }
