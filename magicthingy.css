@@ -218,3 +218,7 @@ section
     font-size: 150px;
     bottom: 100%;
 }
+.watermark
+{
+    position: left;
+}
